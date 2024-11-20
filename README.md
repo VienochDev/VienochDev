@@ -17,13 +17,24 @@ I'm a self-taught Computer Scientist in Python, Javascript, HTML, and CSS. I lov
 
 
 <div align="center">
+  <h3>Technologies and Tools I Use</h3>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" height="45"/>
+  </a>
+</div>
 
-<h3>Technologies and Tool I use</h3> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
     
   
 </div>
