@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi , I'm Andi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyODhwenViZmx4ZnBzb3NxZGcxem02ZDJtdDlvMGhycTNkZm53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eZBJ45h3X2ti2vM6Do/giphy.gif" width = 50px></picture> About me
+## <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyODhwenViZmx4ZnBzb3NxZGcxem02ZDJtdDlvMGhycTNkZm53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eZBJ45h3X2ti2vM6Do/giphy.gif" width = 50px> About me
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY5OWg4dTMwOGl1aHptd2psZ3Z1N2lmazVyeXNqdGF6dGZhZzF4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width = 300px></picture>
 
