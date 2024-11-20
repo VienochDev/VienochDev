@@ -4,7 +4,7 @@
 
 ## <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyODhwenViZmx4ZnBzb3NxZGcxem02ZDJtdDlvMGhycTNkZm53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eZBJ45h3X2ti2vM6Do/giphy.gif" width = 50px> About me
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY5OWg4dTMwOGl1aHptd2psZ3Z1N2lmazVyeXNqdGF6dGZhZzF4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width = 300px></picture>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY5OWg4dTMwOGl1aHptd2psZ3Z1N2lmazVyeXNqdGF6dGZhZzF4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width = 300px>
 
 I'm a self-taught Computer Scientist in Python, Javascript, HTML, and CSS. I love learning and creating something new, productive, innovative, and creative.
 * **I'm interested in web design, hacking**
