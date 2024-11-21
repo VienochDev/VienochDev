@@ -1,5 +1,7 @@
+<!--banener-->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+<!--saludo-->
 <h1 align="center"><b>Hi , I'm Andi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyODhwenViZmx4ZnBzb3NxZGcxem02ZDJtdDlvMGhycTNkZm53NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eZBJ45h3X2ti2vM6Do/giphy.gif" width = 50px> About me
