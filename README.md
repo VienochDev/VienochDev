@@ -21,10 +21,11 @@ I'm a self-taught Computer Scientist in Python, Javascript, HTML, and CSS. I lov
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,vscode,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,vscode,linux&perline=10"/>
 </p>
-<br />
+<br/>
 
+<!--barra-->
 </div>
   <br>
   <p align="center">
@@ -38,3 +39,6 @@ I'm a self-taught Computer Scientist in Python, Javascript, HTML, and CSS. I lov
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+<h2 align="center">
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
