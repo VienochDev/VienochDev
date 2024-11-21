@@ -16,27 +16,13 @@ I'm a self-taught Computer Scientist in Python, Javascript, HTML, and CSS. I lov
 - Outside of technology, 📖 I love reading poems, 🎮 playing video games, 🎵 listening to music, and 🌴 exploring the outdoors.
 
 
-<div align="center">
-  <h3>Technologies and Tools I Use</h3>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" height="45"/>
-  </a>
-</div>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,vscode,linux&perline=10"  />
+</p>
+<br />
 
-    
-  
 </div>
   <br>
   <p align="center">
